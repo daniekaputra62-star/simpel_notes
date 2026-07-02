@@ -1,1 +1,1 @@
-# simpel_notes
+izin pak mohon maaf file nya berbentuk zip saya sudah berusaha upload dari vscode dari terminal namun yang kebaca masih file yang lama saya sudah berusaha bikin project folder baru tetap saja tidak bisa masih yang ke upload file lama saya yang sebelumnnya, mohon pengertiian nya pak terima kasih.
